@@ -4,6 +4,10 @@
 
 A fun and interactive kids learning application built with Flutter. Nifunze provides engaging educational paths in various subjects to help children learn effectively.
 
+## About
+
+Nifunze (meaning "Educate Me" or "Let Me Learn") is designed to make early childhood education interactive, rewarding, and fun. By combining gamification elements like streaks, leaderboards, and rewards with core learning subjects (Math, Alphabet, Animals, and General Knowledge), the app keeps children engaged while they build foundational skills. Whether they are tracing letters, guessing animals, or solving math gaps, Nifunze provides a safe and colorful environment for learning.
+
 ## Features
 
 - **Authentication:** Secure Sign In and Sign Up (including Social Auth).
