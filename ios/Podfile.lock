@@ -1,0 +1,68 @@
+PODS:
+  - app_links (7.0.0):
+    - Flutter
+  - Flutter (1.0.0)
+  - purchases_flutter (10.12.0):
+    - Flutter
+    - PurchasesHybridCommon (= 18.37.0)
+  - purchases_ui_flutter (10.12.0):
+    - Flutter
+    - PurchasesHybridCommonUI (= 18.37.0)
+  - PurchasesHybridCommon (18.37.0):
+    - RevenueCat (= 5.88.0)
+  - PurchasesHybridCommonUI (18.37.0):
+    - PurchasesHybridCommon (= 18.37.0)
+    - RevenueCatUI (= 5.88.0)
+  - RevenueCat (5.88.0)
+  - RevenueCatUI (5.88.0):
+    - RevenueCat (= 5.88.0)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - app_links (from `.symlinks/plugins/app_links/ios`)
+  - Flutter (from `Flutter`)
+  - purchases_flutter (from `.symlinks/plugins/purchases_flutter/ios`)
+  - purchases_ui_flutter (from `.symlinks/plugins/purchases_ui_flutter/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PurchasesHybridCommon
+    - PurchasesHybridCommonUI
+    - RevenueCat
+    - RevenueCatUI
+
+EXTERNAL SOURCES:
+  app_links:
+    :path: ".symlinks/plugins/app_links/ios"
+  Flutter:
+    :path: Flutter
+  purchases_flutter:
+    :path: ".symlinks/plugins/purchases_flutter/ios"
+  purchases_ui_flutter:
+    :path: ".symlinks/plugins/purchases_ui_flutter/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  app_links: a754cbec3c255bd4bbb4d236ecc06f28cd9a7ce8
+  Flutter: 71a624a5bc0c04062bf19101d501e466baf2fb47
+  purchases_flutter: 2b5d794e1a67c6e200a2c9c623598055dcc3751c
+  purchases_ui_flutter: cd8190c10ebcbde997eb91dafa4f2792ff79d484
+  PurchasesHybridCommon: 2e72564d3393d480ca126d4d057737435dd7ccba
+  PurchasesHybridCommonUI: b9e63653fa3abb753b702e0a9b074fbf452b0cbb
+  RevenueCat: 96e12da1f3de201c65f337ff661506ac28ee1514
+  RevenueCatUI: 86e2209d13c41893a4e24da4e26370d4bd9f8b93
+  shared_preferences_foundation: 7036424c3d8ec98dfe75ff1667cb0cd531ec82bb
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+
+PODFILE CHECKSUM: 53a6aebc29ccee84c41f92f409fc20cd4ca011f1
+
+COCOAPODS: 1.16.2

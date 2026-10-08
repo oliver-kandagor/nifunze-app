@@ -1,0 +1,2291 @@
+{
+  "metadata": {
+    "name": "Kids Game",
+    "components": {
+      "2002:4654": {
+        "id": "2002:4654",
+        "key": "a51ccf3eccd3085f4343d73957561cc0337573a7",
+        "name": "Size=Normal, State=Normal, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "2002:2152": {
+        "id": "2002:2152",
+        "key": "1d29bd6dbeb78ce5a002c90448eadf7e51b6bfc0",
+        "name": "Plus"
+      },
+      "4060:3184": {
+        "id": "4060:3184",
+        "key": "4db58d7eb5217e6b6ff12f1fb26526c910c6943a",
+        "name": "Size=Normal, State=Normal, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "4060:5326": {
+        "id": "4060:5326",
+        "key": "23f74db78eca26fd211c317b9ea7d9dd5829a2f4",
+        "name": "united states"
+      },
+      "2002:92": {
+        "id": "2002:92",
+        "key": "880a047080d77456f90e07ef0f1612ba8130ae7b",
+        "name": "CaretDown"
+      },
+      "2002:2118": {
+        "id": "2002:2118",
+        "key": "97c0e7a917bf73dcb9ead24c8cda6896e1067a09",
+        "name": "Question"
+      },
+      "2002:4662": {
+        "id": "2002:4662",
+        "key": "32f200c822c58fc30a53f787f5d8246460a4bda6",
+        "name": "Size=Normal, State=Hover, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3192": {
+        "id": "4060:3192",
+        "key": "b92845a7692d39db6c4c9013ed251f1f6043c760",
+        "name": "Size=Normal, State=Hover, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4670": {
+        "id": "2002:4670",
+        "key": "6310fd255c1194dd7cc4783c582fff8bfc5b0dfb",
+        "name": "Size=Normal, State=Focus, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3200": {
+        "id": "4060:3200",
+        "key": "73f092788eebe7ae8e3184f8d8147e11d375b67a",
+        "name": "Size=Normal, State=Focus, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4678": {
+        "id": "2002:4678",
+        "key": "dfeefa54100527b0af12a52ab8367ebfa7db98fa",
+        "name": "Size=Normal, State=Filled, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3208": {
+        "id": "4060:3208",
+        "key": "b273188f646fd33198845a4e7a0ed57eebdb8d08",
+        "name": "Size=Normal, State=Filled, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4686": {
+        "id": "2002:4686",
+        "key": "832cf2c26888c6c63ff69410806b3103f979240d",
+        "name": "Size=Normal, State=Disabled, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3216": {
+        "id": "4060:3216",
+        "key": "47b3672613c21d3a032a9b9de8ec2e0647c9a01f",
+        "name": "Size=Normal, State=Disabled, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4694": {
+        "id": "2002:4694",
+        "key": "328eb6f90e3a9c44783cb64fd474cb3b45c4a3aa",
+        "name": "Size=Normal, State=Error, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3224": {
+        "id": "4060:3224",
+        "key": "c30384d55608f4f5a73fc5cb74551f1da52ce9ac",
+        "name": "Size=Normal, State=Error, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4702": {
+        "id": "2002:4702",
+        "key": "26ed81989326642e51f710e4e76d399b7ae6c0d5",
+        "name": "Size=Large, State=Normal, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3236": {
+        "id": "4060:3236",
+        "key": "df1627b16703a7d684b87fcc8191dbea92201dc0",
+        "name": "Size=Large, State=Normal, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4710": {
+        "id": "2002:4710",
+        "key": "fed94e94831f69c02daeaf7b942e5f64699b691a",
+        "name": "Size=Large, State=Hover, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3244": {
+        "id": "4060:3244",
+        "key": "1ccfdd9ccb60d4eadae3904c43e1e99d49dae3d4",
+        "name": "Size=Large, State=Hover, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4718": {
+        "id": "2002:4718",
+        "key": "8cf61fa650b12ec2ada512a62d0caf64ccaa17d2",
+        "name": "Size=Large, State=Focus, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3252": {
+        "id": "4060:3252",
+        "key": "b8b55cd7ba39ae4a00172e7d9cef3a356e0c5c36",
+        "name": "Size=Large, State=Focus, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4726": {
+        "id": "2002:4726",
+        "key": "3fc147c6c6942a8d964d38b0f71ef4d855c47675",
+        "name": "Size=Large, State=Filled, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3260": {
+        "id": "4060:3260",
+        "key": "00f161db79cf1dab423563278448570757f55e34",
+        "name": "Size=Large, State=Filled, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4734": {
+        "id": "2002:4734",
+        "key": "91390eac3c7cffa117a50b4ede547923cd28fc38",
+        "name": "Size=Large, State=Disabled, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3268": {
+        "id": "4060:3268",
+        "key": "24ee9dff04826b4334e89c92afb06de86d4728cf",
+        "name": "Size=Large, State=Disabled, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      },
+      "2002:4742": {
+        "id": "2002:4742",
+        "key": "1e1cbd66f4d2cbfd62992b6335a250321b115ab6",
+        "name": "Size=Large, State=Error, Type=Text",
+        "componentSetId": "2002:4653"
+      },
+      "4060:3276": {
+        "id": "4060:3276",
+        "key": "e02c30cc442e05d9d3c423e0baaade7829697a66",
+        "name": "Size=Large, State=Error, Type=Phone Number",
+        "componentSetId": "2002:4653"
+      }
+    },
+    "componentSets": {
+      "2002:4653": {
+        "id": "2002:4653",
+        "key": "acacbc0c3ec4494801ad5406bdafba38fb0a1006",
+        "name": "Input",
+        "description": "",
+        "propertyDefinitions": {
+          "Placeholder": {
+            "type": "boolean",
+            "defaultValue": true
+          },
+          "Hint Text": {
+            "type": "boolean",
+            "defaultValue": true
+          },
+          "With Label": {
+            "type": "boolean",
+            "defaultValue": true
+          },
+          "Show Icon Left": {
+            "type": "boolean",
+            "defaultValue": true
+          },
+          "Show Icon Right": {
+            "type": "boolean",
+            "defaultValue": true
+          },
+          "Text": {
+            "type": "text",
+            "defaultValue": "Placeholder"
+          }
+        }
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": "2002:4653",
+      "name": "Input",
+      "type": "COMPONENT_SET",
+      "layout": {
+        "mode": "none",
+        "sizing": {}
+      },
+      "fills": "fill_5479f726",
+      "strokes": "Primary/100",
+      "strokeWeight": "2px",
+      "strokeDashes": [
+        10,
+        5
+      ],
+      "borderRadius": "12px",
+      "children": [
+        {
+          "id": "2002:4654",
+          "name": "Size=Normal, State=Normal, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 24
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3173",
+              "template": "EL-fbe93250"
+            },
+            {
+              "id": "2002:4656",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4657",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4911",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4659",
+                      "template": "EL-fbdee1d4"
+                    },
+                    {
+                      "id": "2002:4908",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3131",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3184",
+          "name": "Size=Normal, State=Normal, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 704
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3185",
+              "template": "EL-fbe93250"
+            },
+            {
+              "id": "4060:3186",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3187",
+                  "name": "Input",
+                  "template": "EL-0b259abc",
+                  "children": [
+                    {
+                      "id": "4060:5454",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5563",
+                      "template": "EL-e69b5d48"
+                    },
+                    {
+                      "id": "4060:3188",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3189",
+                      "template": "EL-4de2933e"
+                    },
+                    {
+                      "id": "4060:3190",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3191",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4662",
+          "name": "Size=Normal, State=Hover, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 137
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3163",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4664",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4665",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4929",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4667",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4926",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3144",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3192",
+          "name": "Size=Normal, State=Hover, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 817
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3193",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3194",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3195",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "4060:5465",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5562",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3196",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3197",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3198",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3199",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4670",
+          "name": "Size=Normal, State=Focus, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 250
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3165",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4672",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4673",
+                  "name": "Input",
+                  "template": "EL-8f040dec",
+                  "children": [
+                    {
+                      "id": "2002:4932",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4675",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4935",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3142",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3200",
+          "name": "Size=Normal, State=Focus, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 930
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3201",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3202",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3203",
+                  "name": "Input",
+                  "template": "EL-06d22be5",
+                  "children": [
+                    {
+                      "id": "4060:5466",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5567",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3204",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3205",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3206",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3207",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4678",
+          "name": "Size=Normal, State=Filled, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 363
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3171",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4680",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4681",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4953",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4683",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4950",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3157",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3208",
+          "name": "Size=Normal, State=Filled, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 1043
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3209",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3210",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3211",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "4060:5469",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5568",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3212",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3213",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3214",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3215",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4686",
+          "name": "Size=Normal, State=Disabled, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 476
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3177",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4688",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4689",
+                  "name": "Input",
+                  "template": "EL-36eb729b",
+                  "children": [
+                    {
+                      "id": "2002:4956",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4691",
+                      "template": "EL-7d2d3458"
+                    },
+                    {
+                      "id": "2002:4959",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3159",
+                  "template": "EL-bedf0cf8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3216",
+          "name": "Size=Normal, State=Disabled, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 1156
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3217",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3218",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3219",
+                  "name": "Input",
+                  "template": "EL-36eb729b",
+                  "children": [
+                    {
+                      "id": "4060:5470",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5571",
+                      "template": "EL-9514d144"
+                    },
+                    {
+                      "id": "4060:3220",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3221",
+                      "template": "EL-2680cb97"
+                    },
+                    {
+                      "id": "4060:3222",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3223",
+                  "template": "EL-bedf0cf8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4694",
+          "name": "Size=Normal, State=Error, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 589
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3179",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4696",
+              "name": "Content",
+              "template": "EL-cf7afb66",
+              "children": [
+                {
+                  "id": "2002:4697",
+                  "name": "Input",
+                  "template": "EL-8a26ed72",
+                  "children": [
+                    {
+                      "id": "2002:4977",
+                      "name": "Plus",
+                      "template": "EL-68972cf0"
+                    },
+                    {
+                      "id": "2002:4699",
+                      "template": "EL-d8a6ba5b"
+                    },
+                    {
+                      "id": "2002:4974",
+                      "name": "Plus",
+                      "template": "EL-b9b303d3"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3149",
+                  "name": "Hint",
+                  "template": "EL-6e34a162",
+                  "children": [
+                    {
+                      "id": "4060:3150",
+                      "name": "warning",
+                      "template": "EL-d40fb4e5"
+                    },
+                    {
+                      "id": "4060:3153",
+                      "template": "EL-c6869f3a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3224",
+          "name": "Size=Normal, State=Error, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 26,
+              "y": 1269
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3225",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3226",
+              "name": "Content",
+              "template": "EL-cf7afb66",
+              "children": [
+                {
+                  "id": "4060:3227",
+                  "name": "Input",
+                  "template": "EL-8a26ed72",
+                  "children": [
+                    {
+                      "id": "4060:5473",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5572",
+                      "template": "EL-f5b16e10"
+                    },
+                    {
+                      "id": "4060:3228",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3229",
+                      "template": "EL-c7bf31f3"
+                    },
+                    {
+                      "id": "4060:3230",
+                      "name": "Question",
+                      "template": "EL-32851ebb"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3231",
+                  "name": "Hint",
+                  "template": "EL-6e34a162",
+                  "children": [
+                    {
+                      "id": "4060:3232",
+                      "name": "warning",
+                      "template": "EL-d40fb4e5"
+                    },
+                    {
+                      "id": "4060:3235",
+                      "template": "EL-c6869f3a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4702",
+          "name": "Size=Large, State=Normal, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 24
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3183",
+              "template": "EL-fbe93250"
+            },
+            {
+              "id": "2002:4704",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4705",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4917",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4707",
+                      "template": "EL-fbdee1d4"
+                    },
+                    {
+                      "id": "2002:4914",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3140",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3236",
+          "name": "Size=Large, State=Normal, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 704
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3237",
+              "template": "EL-fbe93250"
+            },
+            {
+              "id": "4060:3238",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3239",
+                  "name": "Input",
+                  "template": "EL-0b259abc",
+                  "children": [
+                    {
+                      "id": "4060:5463",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5564",
+                      "template": "EL-e69b5d48"
+                    },
+                    {
+                      "id": "4060:3240",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3241",
+                      "template": "EL-4de2933e"
+                    },
+                    {
+                      "id": "4060:3242",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3243",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4710",
+          "name": "Size=Large, State=Hover, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 137
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3175",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4712",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4713",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4920",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4715",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4923",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3146",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3244",
+          "name": "Size=Large, State=Hover, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 817
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3245",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3246",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3247",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "4060:5464",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5565",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3248",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3249",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3250",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3251",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4718",
+          "name": "Size=Large, State=Focus, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 250
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3169",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4720",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4721",
+                  "name": "Input",
+                  "template": "EL-8f040dec",
+                  "children": [
+                    {
+                      "id": "2002:4941",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4723",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4938",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3148",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3252",
+          "name": "Size=Large, State=Focus, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 930
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3253",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3254",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3255",
+                  "name": "Input",
+                  "template": "EL-06d22be5",
+                  "children": [
+                    {
+                      "id": "4060:5467",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5566",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3256",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3257",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3258",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3259",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4726",
+          "name": "Size=Large, State=Filled, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 363
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3161",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4728",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4729",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "2002:4944",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4731",
+                      "template": "EL-546f5fde"
+                    },
+                    {
+                      "id": "2002:4947",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3138",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3260",
+          "name": "Size=Large, State=Filled, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 1043
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3261",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3262",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3263",
+                  "name": "Input",
+                  "template": "EL-bc12476a",
+                  "children": [
+                    {
+                      "id": "4060:5468",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5569",
+                      "template": "EL-1241650a"
+                    },
+                    {
+                      "id": "4060:3264",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3265",
+                      "template": "EL-9870a33b"
+                    },
+                    {
+                      "id": "4060:3266",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3267",
+                  "template": "EL-4a974adc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4734",
+          "name": "Size=Large, State=Disabled, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 476
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3167",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4736",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "2002:4737",
+                  "name": "Input",
+                  "template": "EL-36eb729b",
+                  "children": [
+                    {
+                      "id": "2002:4965",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4739",
+                      "template": "EL-7d2d3458"
+                    },
+                    {
+                      "id": "2002:4962",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3155",
+                  "template": "EL-bedf0cf8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3268",
+          "name": "Size=Large, State=Disabled, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 1156
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3269",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3270",
+              "name": "Content",
+              "template": "EL-760dc509",
+              "children": [
+                {
+                  "id": "4060:3271",
+                  "name": "Input",
+                  "template": "EL-36eb729b",
+                  "children": [
+                    {
+                      "id": "4060:5471",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5570",
+                      "template": "EL-9514d144"
+                    },
+                    {
+                      "id": "4060:3272",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3273",
+                      "template": "EL-2680cb97"
+                    },
+                    {
+                      "id": "4060:3274",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3275",
+                  "template": "EL-bedf0cf8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2002:4742",
+          "name": "Size=Large, State=Error, Type=Text",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 589
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3181",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "2002:4744",
+              "name": "Content",
+              "template": "EL-cf7afb66",
+              "children": [
+                {
+                  "id": "2002:4745",
+                  "name": "Input",
+                  "template": "EL-8a26ed72",
+                  "children": [
+                    {
+                      "id": "2002:4971",
+                      "name": "Plus",
+                      "template": "EL-2ab9e1a4"
+                    },
+                    {
+                      "id": "2002:4747",
+                      "template": "EL-d8a6ba5b"
+                    },
+                    {
+                      "id": "2002:4968",
+                      "name": "Plus",
+                      "template": "EL-b089412f"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3132",
+                  "name": "Hint",
+                  "template": "EL-6e34a162",
+                  "children": [
+                    {
+                      "id": "4060:3133",
+                      "name": "warning",
+                      "template": "EL-d40fb4e5"
+                    },
+                    {
+                      "id": "4060:3136",
+                      "template": "EL-c6869f3a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4060:3276",
+          "name": "Size=Large, State=Error, Type=Phone Number",
+          "type": "COMPONENT",
+          "layout": {
+            "mode": "column",
+            "alignItems": "stretch",
+            "gap": "4px",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "locationRelativeToParent": {
+              "x": 374,
+              "y": 1269
+            },
+            "dimensions": {
+              "width": 300
+            }
+          },
+          "children": [
+            {
+              "id": "4060:3277",
+              "template": "EL-75c0d43e"
+            },
+            {
+              "id": "4060:3278",
+              "name": "Content",
+              "template": "EL-cf7afb66",
+              "children": [
+                {
+                  "id": "4060:3279",
+                  "name": "Input",
+                  "template": "EL-8a26ed72",
+                  "children": [
+                    {
+                      "id": "4060:5472",
+                      "name": "united states",
+                      "template": "EL-a99fdf02"
+                    },
+                    {
+                      "id": "4060:5573",
+                      "template": "EL-f5b16e10"
+                    },
+                    {
+                      "id": "4060:3280",
+                      "name": "CaretDown",
+                      "template": "EL-9b0ba68b"
+                    },
+                    {
+                      "id": "4060:3281",
+                      "template": "EL-c7bf31f3"
+                    },
+                    {
+                      "id": "4060:3282",
+                      "name": "Question",
+                      "template": "EL-7bff6c03"
+                    }
+                  ]
+                },
+                {
+                  "id": "4060:3283",
+                  "name": "Hint",
+                  "template": "EL-6e34a162",
+                  "children": [
+                    {
+                      "id": "4060:3284",
+                      "name": "warning",
+                      "template": "EL-d40fb4e5"
+                    },
+                    {
+                      "id": "4060:3287",
+                      "template": "EL-c6869f3a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "fill_5479f726": [
+        "#FAFAFA"
+      ],
+      "Primary/100": [
+        "#5F57FF"
+      ],
+      "layout_56d3c81c": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Label/Label-2/Medium": {
+        "fontFamily": "Baloo 2",
+        "fontStyle": "Medium",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "20px",
+        "letterSpacing": "-0.0114em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "fill_34dc0314": [
+        "#000000"
+      ],
+      "layout_904f8e8d": {
+        "mode": "row",
+        "alignSelf": "stretch",
+        "padding": "12px",
+        "alignItems": "center",
+        "gap": "8px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "fill_491b2e25": [
+        "#E5E5E5"
+      ],
+      "effect_66e9b3b3": {
+        "boxShadow": "1px 3px 0px 0px rgba(229, 229, 229, 1)"
+      },
+      "layout_bee36b52": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": 20,
+          "height": 20
+        }
+      },
+      "fill_97d170e1": [],
+      "fill_431cd7ae": [
+        "#737373"
+      ],
+      "Label/Label-2/Regular": {
+        "fontFamily": "Baloo 2",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeight": "20px",
+        "letterSpacing": "-0.0114em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_f80d2096": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": 300,
+          "height": 16
+        }
+      },
+      "Label/Label-3/Regular": {
+        "fontFamily": "Baloo 2",
+        "fontStyle": "Regular",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeight": "16px",
+        "letterSpacing": "-0.01em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "fill_e756821f": [
+        "#D4D4D4"
+      ],
+      "layout_177c5efc": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "fill_2ab94739": [
+        "#2E90FA"
+      ],
+      "fill_e875a0eb": [
+        "#A3A3A3"
+      ],
+      "fill_4475c36f": [
+        "#DC2626"
+      ],
+      "layout_ff44da31": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": 22,
+          "height": 22
+        }
+      }
+    }
+  },
+  "elements": {
+    "EL-fbe93250": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "Label",
+      "textStyle": "Label/Label-2/Medium",
+      "fills": "fill_34dc0314",
+      "componentPropertyReferences": {
+        "visible": "With Label"
+      }
+    },
+    "EL-760dc509": {
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "6px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      }
+    },
+    "EL-bc12476a": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_5479f726",
+      "strokes": "fill_491b2e25",
+      "strokeWeight": "1px",
+      "effects": "effect_66e9b3b3",
+      "borderRadius": "12px"
+    },
+    "EL-68972cf0": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_bee36b52",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2152",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Left"
+      }
+    },
+    "EL-fbdee1d4": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "Placeholder",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_431cd7ae",
+      "componentPropertyReferences": {
+        "visible": "Placeholder",
+        "text": "Text"
+      }
+    },
+    "EL-b9b303d3": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_bee36b52",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2152",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Right"
+      }
+    },
+    "EL-4a974adc": {
+      "type": "TEXT",
+      "layout": "layout_f80d2096",
+      "text": "This is a hint text to help user.",
+      "textStyle": "Label/Label-3/Regular",
+      "fills": "fill_431cd7ae",
+      "componentPropertyReferences": {
+        "visible": "Hint Text"
+      }
+    },
+    "EL-0b259abc": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_5479f726",
+      "strokes": "fill_e756821f",
+      "strokeWeight": "1px",
+      "effects": {
+        "boxShadow": "1px 3px 0px 0px rgba(163, 163, 163, 1)"
+      },
+      "borderRadius": "12px"
+    },
+    "EL-a99fdf02": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_bee36b52",
+      "fills": "fill_97d170e1",
+      "componentId": "4060:5326"
+    },
+    "EL-e69b5d48": {
+      "type": "TEXT",
+      "layout": "layout_177c5efc",
+      "text": "US",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_431cd7ae",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-9b0ba68b": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_bee36b52",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:92",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Left"
+      }
+    },
+    "EL-4de2933e": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "+1 \\(555\\) 000-0000",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_431cd7ae",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-32851ebb": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_bee36b52",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2118",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Right"
+      }
+    },
+    "EL-75c0d43e": {
+      "type": "TEXT",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "height": 20
+        }
+      },
+      "text": "Label",
+      "textStyle": "Label/Label-2/Medium",
+      "fills": "fill_34dc0314",
+      "componentPropertyReferences": {
+        "visible": "With Label"
+      }
+    },
+    "EL-546f5fde": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "Placeholder",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_34dc0314",
+      "componentPropertyReferences": {
+        "visible": "Placeholder",
+        "text": "Text"
+      }
+    },
+    "EL-1241650a": {
+      "type": "TEXT",
+      "layout": "layout_177c5efc",
+      "text": "US",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_34dc0314",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-9870a33b": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "+1 \\(555\\) 000-0000",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_34dc0314",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-8f040dec": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_5479f726",
+      "strokes": "fill_2ab94739",
+      "strokeWeight": "1px",
+      "effects": {
+        "boxShadow": "1px 3px 0px 0px rgba(23, 92, 211, 1)"
+      },
+      "borderRadius": "12px"
+    },
+    "EL-06d22be5": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_5479f726",
+      "strokes": "fill_2ab94739",
+      "strokeWeight": "1px",
+      "effects": {
+        "boxShadow": "1px 3px 0px 0px rgba(21, 112, 239, 1)"
+      },
+      "borderRadius": "12px"
+    },
+    "EL-36eb729b": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_491b2e25",
+      "strokes": "fill_e756821f",
+      "strokeWeight": "1px",
+      "effects": "effect_66e9b3b3",
+      "borderRadius": "12px"
+    },
+    "EL-7d2d3458": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "Placeholder",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_e875a0eb",
+      "componentPropertyReferences": {
+        "visible": "Placeholder",
+        "text": "Text"
+      }
+    },
+    "EL-bedf0cf8": {
+      "type": "TEXT",
+      "layout": "layout_f80d2096",
+      "text": "This is a hint text to help user.",
+      "textStyle": "Label/Label-3/Regular",
+      "fills": "fill_e875a0eb",
+      "componentPropertyReferences": {
+        "visible": "Hint Text"
+      }
+    },
+    "EL-9514d144": {
+      "type": "TEXT",
+      "layout": "layout_177c5efc",
+      "text": "US",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_e875a0eb",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-2680cb97": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "+1 \\(555\\) 000-0000",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_e875a0eb",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-cf7afb66": {
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "alignItems": "stretch",
+        "gap": "6px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      }
+    },
+    "EL-8a26ed72": {
+      "type": "FRAME",
+      "layout": "layout_904f8e8d",
+      "fills": "fill_5479f726",
+      "strokes": [
+        "#EF4444"
+      ],
+      "strokeWeight": "1px",
+      "effects": {
+        "boxShadow": "1px 3px 0px 0px rgba(185, 28, 28, 1)"
+      },
+      "borderRadius": "12px"
+    },
+    "EL-d8a6ba5b": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "Placeholder",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_4475c36f",
+      "componentPropertyReferences": {
+        "visible": "Placeholder",
+        "text": "Text"
+      }
+    },
+    "EL-6e34a162": {
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignSelf": "stretch",
+        "alignItems": "center",
+        "gap": "4px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "componentPropertyReferences": {
+        "visible": "Hint Text"
+      }
+    },
+    "EL-d40fb4e5": {
+      "type": "IMAGE-SVG",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": 16,
+          "height": 16
+        }
+      }
+    },
+    "EL-c6869f3a": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "This is a hint text to help user.",
+      "textStyle": "Label/Label-3/Regular",
+      "fills": "fill_4475c36f"
+    },
+    "EL-f5b16e10": {
+      "type": "TEXT",
+      "layout": "layout_177c5efc",
+      "text": "US",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_4475c36f",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-c7bf31f3": {
+      "type": "TEXT",
+      "layout": "layout_56d3c81c",
+      "text": "+1 \\(555\\) 000-0000",
+      "textStyle": "Label/Label-2/Regular",
+      "fills": "fill_4475c36f",
+      "componentPropertyReferences": {
+        "visible": "Placeholder"
+      }
+    },
+    "EL-2ab9e1a4": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_ff44da31",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2152",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Left"
+      }
+    },
+    "EL-b089412f": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_ff44da31",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2152",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Right"
+      }
+    },
+    "EL-7bff6c03": {
+      "type": "IMAGE-SVG",
+      "layout": "layout_ff44da31",
+      "fills": "fill_97d170e1",
+      "componentId": "2002:2118",
+      "componentPropertyReferences": {
+        "visible": "Show Icon Right"
+      }
+    }
+  }
+}
